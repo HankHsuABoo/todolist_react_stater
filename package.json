@@ -1,6 +1,7 @@
 {
   "name": "todolist-react",
   "version": "0.1.0",
+  "homepage": "https://HankHsuABoo.github.io/todolist_react_stater",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -25,7 +26,9 @@
     "dev-server": "json-server --watch db.json --port 3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
