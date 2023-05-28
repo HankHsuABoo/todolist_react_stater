@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/todolist_react_stater/static/css/main.4097c508.chunk.css",
-    "main.js": "/todolist_react_stater/static/js/main.60bc041e.chunk.js",
-    "main.js.map": "/todolist_react_stater/static/js/main.60bc041e.chunk.js.map",
+    "main.css": "/todolist_react_stater/static/css/main.81e9703d.chunk.css",
+    "main.js": "/todolist_react_stater/static/js/main.01ef8941.chunk.js",
+    "main.js.map": "/todolist_react_stater/static/js/main.01ef8941.chunk.js.map",
     "runtime-main.js": "/todolist_react_stater/static/js/runtime-main.848a6ed4.js",
     "runtime-main.js.map": "/todolist_react_stater/static/js/runtime-main.848a6ed4.js.map",
-    "static/js/2.b0185596.chunk.js": "/todolist_react_stater/static/js/2.b0185596.chunk.js",
-    "static/js/2.b0185596.chunk.js.map": "/todolist_react_stater/static/js/2.b0185596.chunk.js.map",
+    "static/js/2.139bf96d.chunk.js": "/todolist_react_stater/static/js/2.139bf96d.chunk.js",
+    "static/js/2.139bf96d.chunk.js.map": "/todolist_react_stater/static/js/2.139bf96d.chunk.js.map",
     "static/js/3.553f5f2a.chunk.js": "/todolist_react_stater/static/js/3.553f5f2a.chunk.js",
     "static/js/3.553f5f2a.chunk.js.map": "/todolist_react_stater/static/js/3.553f5f2a.chunk.js.map",
     "index.html": "/todolist_react_stater/index.html",
-    "static/css/main.4097c508.chunk.css.map": "/todolist_react_stater/static/css/main.4097c508.chunk.css.map",
-    "static/js/2.b0185596.chunk.js.LICENSE.txt": "/todolist_react_stater/static/js/2.b0185596.chunk.js.LICENSE.txt",
-    "static/media/ac-logo.eea79863.svg": "/todolist_react_stater/static/media/ac-logo.eea79863.svg",
-    "static/media/check-active.680985db.svg": "/todolist_react_stater/static/media/check-active.680985db.svg",
-    "static/media/check-circle.ad8591fd.svg": "/todolist_react_stater/static/media/check-circle.ad8591fd.svg",
-    "static/media/check-hover.f1b1bcfd.svg": "/todolist_react_stater/static/media/check-hover.f1b1bcfd.svg"
+    "static/css/main.81e9703d.chunk.css.map": "/todolist_react_stater/static/css/main.81e9703d.chunk.css.map",
+    "static/js/2.139bf96d.chunk.js.LICENSE.txt": "/todolist_react_stater/static/js/2.139bf96d.chunk.js.LICENSE.txt",
+    "static/media/ac-logo.f4e0f3cb.svg": "/todolist_react_stater/static/media/ac-logo.f4e0f3cb.svg",
+    "static/media/check-active.95ca055c.svg": "/todolist_react_stater/static/media/check-active.95ca055c.svg",
+    "static/media/check-circle.30720b46.svg": "/todolist_react_stater/static/media/check-circle.30720b46.svg",
+    "static/media/check-hover.5e00062b.svg": "/todolist_react_stater/static/media/check-hover.5e00062b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.848a6ed4.js",
-    "static/js/2.b0185596.chunk.js",
-    "static/css/main.4097c508.chunk.css",
-    "static/js/main.60bc041e.chunk.js"
+    "static/js/2.139bf96d.chunk.js",
+    "static/css/main.81e9703d.chunk.css",
+    "static/js/main.01ef8941.chunk.js"
   ]
 }
